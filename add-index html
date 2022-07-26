@@ -1,3 +1,6 @@
-Hello there, awesome person!
-＜html＞
-＜body＞
+```html
+<html>
+    <body>
+        The HTML structure have used there.
+    </body>
+</html>
