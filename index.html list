@@ -1,0 +1,15 @@
+<html>
+   <head>  
+    <title>Hello!Let's start learning HTML</title>
+   </head>
+ <body>
+     <h1>Favorite apps</h1>
+<img src="https://avatars.githubusercontent.com/u/109624522?v=4">
+  <ol>
+    <li>GitHub</li>
+    <li>4PDA</li>
+    <li>Termux</li>
+  </ol>
+ </body>
+</html>
+
