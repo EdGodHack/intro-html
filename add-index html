@@ -1,11 +1,7 @@
-```html
-<html>
-    <body>
-        The HTML structure have used there.
-<ul>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Unordered list</li>
-</ul>
-    </body>
-</html>
+＜html＞
+＜head＞
+＜/head＞
+＜body＞
+Hello there, awesome person!
+＜/body＞
+＜/html＞
